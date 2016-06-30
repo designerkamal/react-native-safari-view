@@ -8,7 +8,7 @@
 
 var warning = require('warning');
 
-var SafariViewManager = {
+export default{
   test: function() {
     warning('Not yet implemented for Android.');
   },
@@ -18,5 +18,3 @@ var SafariViewManager = {
     });
   }
 };
-
-module.exports = SafariViewManager;
