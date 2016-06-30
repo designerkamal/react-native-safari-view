@@ -1,8 +1,8 @@
 {
   "name": "react-native-safari-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native wrapper for Safari View Controller",
-  "main": "index.js",
+  "main": "index.ios.js",
   "scripts": {
     "lint": "node_modules/.bin/eslint .",
     "test": "npm run lint"
